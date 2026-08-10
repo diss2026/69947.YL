@@ -1,2 +1,2 @@
-# 69947.YL-
+# 69947.YL
 Dissertation R Code and Qualitative Analysis 
